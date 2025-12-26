@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Quiz5-4231.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\MyActor.gen.cpp.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.init.gen.cpp.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\MyActor.cpp.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\PerModuleInline.gen.cpp.obj"
+"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Default.rc2.res"
+/OUT:"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\UnrealEditor-Quiz5-4231.lib"

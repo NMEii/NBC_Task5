@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\quiz5\\intermediate\\build\\win64\\unrealeditor\\inc\\quiz5\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quiz5\\definitions.quiz5.h",
+            "d:\\unreal\\quiz5\\source\\quiz5\\public\\myactor.h",
+            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\unrealeditor\\inc\\quiz5\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\Quiz5\\Source\\Quiz5\\Quiz5.Build.cs",
+		"D:\\Unreal\\Quiz5\\Source\\Quiz5.Target.cs",
+		"D:\\Unreal\\Quiz5\\Source\\Quiz5Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
