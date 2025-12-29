@@ -1,12 +1,12 @@
-"D:\Unreal\Quiz5\Source\Quiz5\Quiz5.cpp"
-/FI"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Definitions.Quiz5.h"
-/Yu"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.obj"
-/experimental:log "D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.sarif"
-/sourceDependencies "D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.dep.json"
-@"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.Shared.rsp"
+"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Source\Quiz5\Quiz5.cpp"
+/FI"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Definitions.Quiz5.h"
+/Yu"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.obj"
+/experimental:log "D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.sarif"
+/sourceDependencies "D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.cpp.dep.json"
+@"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Quiz5\Quiz5.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

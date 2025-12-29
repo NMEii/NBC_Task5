@@ -1,4 +1,4 @@
-"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
+"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\VerseVMBytecode"
@@ -17,10 +17,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
 /Yc"SharedPCH.CoreUObject.RTTI.Cpp20.h"
-/Fp"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
-/Fo"D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
-/experimental:log "D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.sarif"
-/sourceDependencies "D:\Unreal\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
+/Fp"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
+/Fo"D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
+/experimental:log "D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.sarif"
+/sourceDependencies "D:\Project\NBC_Git_Practice\NBC_Task5\Quiz5\Intermediate\Build\Win64\x64\Quiz5Editor\Development\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

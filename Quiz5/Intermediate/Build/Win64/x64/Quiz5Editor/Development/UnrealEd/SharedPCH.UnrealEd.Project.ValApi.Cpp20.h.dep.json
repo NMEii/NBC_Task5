@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.cpp",
+        "Source": "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h",
-            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h",
+            "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\unrealedsharedpch.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",

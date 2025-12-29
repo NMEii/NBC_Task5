@@ -23,24 +23,38 @@ void AMyActor::BeginPlay()
 	for (int i = 0; i < 10; i++)
 	{
 		RandomEvent();
+		GEngine->AddOnScreenDebugMessage(
+			-1,
+			10.0f,
+			FColor::Blue,
+			FString::Printf(TEXT("Total Count : %d"), i+1)
+		);
+
 	}
+
 
 	if (GEngine)
 	{
-		GEngine->AddOnScreenDebugMessage(
+		GEngine->AddOnScreenDebugMessage(	// 회전 횟수 출력
 			-1,
 			10.0f,
 			FColor::Blue,
 			FString::Printf(TEXT("Turn Count : %d"), turnCount)
 		);
 
-		GEngine->AddOnScreenDebugMessage(
+		GEngine->AddOnScreenDebugMessage(	// 이동 횟수 출력
 			-1,
 			10.0f,
 			FColor::Blue,
 			FString::Printf(TEXT("Move Count : %d"), moveCount)
 		);
 
+		GEngine->AddOnScreenDebugMessage(	// 시작 지점에서 마지막 위치까지의 거리
+			-1,
+			10.0f,
+			FColor::Red,
+			*(actorLocation - startLocation).ToString()
+		);
 	}
 
 }

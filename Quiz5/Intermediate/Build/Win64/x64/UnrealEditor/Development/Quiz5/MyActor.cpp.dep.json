@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal\\quiz5\\source\\quiz5\\private\\myactor.cpp",
+        "Source": "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\source\\quiz5\\private\\myactor.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\x64\\quiz5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quiz5\\definitions.quiz5.h",
-            "d:\\unreal\\quiz5\\source\\quiz5\\public\\myactor.h",
-            "d:\\unreal\\quiz5\\intermediate\\build\\win64\\unrealeditor\\inc\\quiz5\\uht\\myactor.generated.h"
+            "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quiz5\\definitions.quiz5.h",
+            "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\source\\quiz5\\public\\myactor.h",
+            "d:\\project\\nbc_git_practice\\nbc_task5\\quiz5\\intermediate\\build\\win64\\unrealeditor\\inc\\quiz5\\uht\\myactor.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
